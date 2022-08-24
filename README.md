@@ -6,7 +6,9 @@ Ils aimeraient pouvoir stocker leurs données de manière optimisée afin de les
 freelance est dans un premier temps de comprendre ce jeu de données, cela dans le but de mettre en place une base de données 
 adaptée ainsi que la procédure d’import de ces données en base.
 
-# Outils utilisés
+--------------------------------------------------------------------------------
+
+## Outils utilisés
 
 Python
 Pandas
